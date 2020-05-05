@@ -13,8 +13,8 @@ Python 3.6+
 
 Run terminal, clone the repository and enter to the newly created directory
 ```console
-user@host:~$ git clone https://github.com/rgruberski/python-simple-web-scraping.git
-user@host:~$ cd python-simple-web-scraping
+user@host:~$ git clone https://github.com/maciej-zieniewicz/dw_community-scrapper.git
+user@host:~$ cd dw_community-scrapper
 ```
 
 Create a virtual environment
