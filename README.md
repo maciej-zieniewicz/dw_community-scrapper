@@ -1,5 +1,5 @@
 # dw_community-scrapper
-[DataWorkshop](https://dataworkshop.eu/) Tri-City group project - "Predicting houses and flats prices in 3#city".
+[DataWorkshop](https://github.com/dataworkshop/dw_3miasto_project) Tri-City group project - "Predicting houses and flats prices in 3#city".
 
 The scrapper was used during data gathering process from multiple resources. 
 
